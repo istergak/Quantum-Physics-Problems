@@ -6,8 +6,13 @@ This directory contains `Jupyter Notebooks` for the `SymPy` courses, as part of 
 
 [SymPy_Notes1](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes1.ipynb): Introduction to `SymPy`, symbols definition, substitution and numerical evaluation, symbolic functions, handling and manipulation of symbolic epxressions
 
-[SymPy_Notes1_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes1_gr.ipynb): Same as the notebook **SymPy_Notes1** but in greek
+[SymPy_Notes1_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes1_gr.ipynb): Same as the notebook **SymPy_Notes1.ipynb** but in greek
 
 [SymPy_Notes2](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes2.ipynb): Linear algebra with `SymPy`: matrix operations, determinant, transpose and inverse of a matrix, eigenvalues and eigenvectors of a matrix
 
-[SymPy_Notes2_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes2_gr.ipynb): Same as the notebook **SymPy_Notes2** but in greek
+[SymPy_Notes2_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes2_gr.ipynb): Same as the notebook **SymPy_Notes2.ipynb** but in greek
+
+[SymPy_Notes3](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes3.ipynb): Calculus with `SymPy`: limits, differentiation, integration, series expansion,
+sums and products
+
+[SymPy_Notes3_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes3_gr.ipynb): Same as the notebook **SymPy_Notes3.ipynb** but in greek

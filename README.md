@@ -16,3 +16,7 @@ This directory contains `Jupyter Notebooks` for the `SymPy` courses, as part of 
 sums and products
 
 [SymPy_Notes3_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes3_gr.ipynb): Same as the notebook **SymPy_Notes3.ipynb** but in greek
+
+[SymPy_Notes4](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes4.ipynb): Solving equations with `SymPy`: algebraic equations and systems of algebraic equations, ordinary differential equations, systems of ordinary differential equations and some initial values problems
+
+[SymPy_Notes4_gr](https://github.com/istergak/Quantum-Physics-Problems/blob/main/SymPy_Notes3_gr.ipynb): Same as the notebook **SymPy_Notes4.ipynb** but in greek
